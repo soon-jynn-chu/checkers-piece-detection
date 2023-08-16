@@ -1,0 +1,15 @@
+names:
+- G
+- R
+- g
+- r
+nc: 4
+roboflow:
+  license: MIT
+  project: checkers-piece-detection
+  url: https://universe.roboflow.com/ullthesis/checkers-piece-detection/dataset/1
+  version: 1
+  workspace: ullthesis
+test: /home/soonjynn/thesis/piece-detection/Checkers-Piece-Detection-1/test/images
+train: /home/soonjynn/thesis/piece-detection/Checkers-Piece-Detection-1/train/images
+val: /home/soonjynn/thesis/piece-detection/Checkers-Piece-Detection-1/valid/images
